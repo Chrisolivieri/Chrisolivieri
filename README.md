@@ -1,10 +1,12 @@
 # Hi!👋 I'm Christian Olivieri!<br>
 
-# Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
-I'm a full-stack developer with a passion for building web applications and exploring new technologies. 
-I love working on dynamic and scalable solutions, constantly learning and improving my skills along the way. 
-Feel free to explore my repositories and connect with me!
+I'm a full-stack developer with a passion for building web applications and exploring new technologies.<br>
+I love working on dynamic and scalable solutions, constantly learning and improving my skills along the way.<br>
+Feel free to explore my repositories and connect with me!<br>
+
+E-mail: christian.olivieri93@gmail.com
 
 
 
