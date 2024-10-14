@@ -1,6 +1,6 @@
 # Hi!👋 I'm Christian Olivieri!<br>
 
-Welcome to my GitHub's profile
+Welcome to my GitHub profile
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-olivieri-115b8330a/) 
