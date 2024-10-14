@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 • 🚀 I love working on dynamic and scalable solutions, constantly learning and improving my skills along the way.<br>
 • 📂 Feel free to explore my repositories and connect with me!<br>
 
-E-mail: christian.olivieri93@gmail.com
+📧 E-mail: christian.olivieri93@gmail.com
 
 
 
