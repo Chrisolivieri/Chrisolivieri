@@ -2,7 +2,9 @@
 
 # Welcome to my GitHub profile!
 
-I'm a full-stack developer with a passion for building web applications and exploring new technologies. I love working on dynamic and scalable solutions, constantly learning and improving my skills along the way. Feel free to explore my repositories and connect with me!
+I'm a full-stack developer with a passion for building web applications and exploring new technologies. 
+I love working on dynamic and scalable solutions, constantly learning and improving my skills along the way. 
+Feel free to explore my repositories and connect with me!
 
 
 
