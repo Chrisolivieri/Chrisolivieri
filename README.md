@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-• 💻 I'm a full-stack developer with a passion for building web applications and exploring new technologies.<br>
+• 💻 I'm a Full-Stack Developer with a passion for building web applications and exploring new technologies.<br>
 • 🚀 I love working on dynamic and scalable solutions, constantly learning and improving my skills along the way.<br>
 • 📂 Feel free to explore my repositories and connect with me!<br>
 
@@ -16,4 +16,4 @@ Welcome to my GitHub profile!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisolivieri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-olivieri-115b8330a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/christian-olivieri-115b8330a/) 
